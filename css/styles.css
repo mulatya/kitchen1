@@ -1,0 +1,72 @@
+
+}
+.f{text-align: right;}
+.y{ background-image: url("../img/foodsBg.jpg");}
+.e{
+  text-align: center;
+}
+.jumbotron{
+  background-image: url("../img/landing.jpg");
+}
+.x{ color: orange}
+.r{color: orange}
+.col-md-4{text-align: center;}
+.email_panel{
+  background-image: url("../img/subscribe.jpg");
+  padding: 20px;
+}
+.tabpanel{
+  padding: 20px;
+}
+.i{
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-right: 20px;
+  margin-left: 20px;
+}
+.blockhead{
+  text-align: center;
+}
+.v{
+  color: white
+}
+.footer-menu{
+  padding: 20px
+}
+.social-panel{background-color: #F15429}
+.orng{ color: #F15429}
+.footer-menu{text-align: center;}
+.email_panel{padding: 20px}
+.footer-menu{text-align: center;}
+.breakfast{
+  background-image: url("../img/breakfast.jpg");
+  padding: 60px;
+  padding-left: 150px;
+  padding-right: 150px;
+}
+.lunch{
+  background-image: url("../img/lunch.jpg");
+  padding: 60px;
+  padding-left: 150px;
+  padding-right: 150px;
+}
+.dinner{
+  background-image: url("../img/dinner.jpg");
+  padding: 60px;
+  padding-left: 150px;
+  padding-right: 150px;
+}
+.orng1{
+  background-color: #F15429;
+  padding: 5px;
+  padding-left: 150px;
+  padding-right: 150px;
+  text-align: center;
+}
+.white{
+  background-color: white;
+  padding: 5px;
+  padding-left: 150px;
+  padding-right: 150px;
+  text-align: center;
+}
